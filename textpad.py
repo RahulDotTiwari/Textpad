@@ -1,4 +1,4 @@
-# Hello everyone! this is Rahul Tiwari. I tried my best to made an app for user friendly GUI and also some basic tools to made user more Efficient.
+# Hello everyone! this is Rahul Tiwari. I tried my best to make an app for user friendly GUI and added some basic tools to made user more Efficient.
 
 import tkinter as tk
 from tkinter import ttk
